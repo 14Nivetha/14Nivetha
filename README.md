@@ -111,21 +111,51 @@ AI-powered assistant for fault-code lookup and troubleshooting.
 
 I focus on building AI systems beyond simple LLM prompting:
 
-```text
-User Request
-     ↓
-Intent / Classification
-     ↓
-Stateful Agent Workflow
-     ↓
-Tool / API Selection
-     ↓
-Validation & Guardrails
-     ↓
-RAG / Enterprise Data
-     ↓
-Human Approval (when required)
-     ↓
-Enterprise Action
-     ↓
-Evaluation & Monitoring
+I would prioritize **4–6 repositories**:
+
+1. **LOTA-AI-License-Access-Agent**
+   - LangGraph
+   - FastAPI
+   - Azure OpenAI
+   - RBAC
+   - Human-in-the-loop
+   - State/checkpointing
+
+2. **KCE-Fault-Assistant**
+   - RAG
+   - Embeddings
+   - Vector search
+   - LangGraph
+   - Evaluation/hallucination detection
+
+3. **Agentic-AI-LangGraph**
+   - State
+   - Nodes
+   - Conditional routing
+   - Tool calling
+   - Retry/fallback
+   - Human approval
+
+4. **Production-RAG-Pipeline**
+   - Chunking
+   - Embeddings
+   - Retrieval
+   - Metadata filtering
+   - Reranking
+   - Evaluation
+
+5. **LLM-Evaluation-Harness**
+   - Dataset-based evaluation
+   - Intent accuracy
+   - Retrieval metrics
+   - Faithfulness
+   - Regression testing
+   - LangSmith
+
+6. **FastAPI-AI-Microservice**
+   - FastAPI
+   - Pydantic
+   - Async APIs
+   - Docker
+   - REST integration
+   - Logging/monitoring
