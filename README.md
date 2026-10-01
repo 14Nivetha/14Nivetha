@@ -1,45 +1,131 @@
-# Hi there, I'm Nivetha! 👩‍💻
+# Hi, I'm Nivetha A 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nivetha&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/Nivetha?label=Follow%20Me&style=social)
+### AI Engineer | Generative AI | Agentic AI | LLM Applications
 
-🚀 **Artificial Intelligence & Data Science Enthusiast**  
-🌟 Passionate about leveraging **Machine Learning**, **Data Visualization**, and **Natural Language Processing** to build real-world solutions.
+Associate Engineer with 3+ years of experience building production-oriented AI applications and enterprise automation solutions.
 
----
-
-### 💻 **About Me**  
-I am a skilled AI & DS student with expertise in programming languages like **Python**, **Java**, and **SQL**. Currently work on exciting projects at **KONE Elevator**.
-
-### 🎯 **Current Interests**:
-- 🌐 **Machine Learning**: Building predictive models and experimenting with algorithms.
-- 📊 **Data Visualization**: Turning raw data into insightful visuals.
-- 🧠 **Natural Language Processing**: Teaching machines to understand human language.
-
-
-
-### 🛠 **Languages & Tools**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### 🔗 **Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nivetha-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nivetha-a-5bb336205/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:nivethaarumugam14@gmail.com)
+I specialize in **Python, LLMs, Generative AI, RAG, LangChain, LangGraph, AI Agents, FastAPI, REST APIs, Azure OpenAI, and AI evaluation/observability**.
 
 ---
 
+## 🚀 What I Build
 
-
-### 📈 **GitHub Status**
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nivetha&show_icons=true&hide_border=true&theme=radical" alt="Nivetha's GitHub Status" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nivetha&theme=radical&hide_border=true" alt="Nivetha's GitHub Streak" />
-</div>
+- 🤖 Agentic AI and stateful LLM workflows
+- 🔗 LangGraph-based agent orchestration
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🔎 Semantic and vector search
+- 🧠 LLM-powered enterprise applications
+- 🔧 Tool/API-integrated AI agents
+- 👤 Human-in-the-loop approval workflows
+- 🛡️ RBAC, validation and AI guardrails
+- 📊 LLM evaluation and observability
+- ⚡ Production AI APIs and backend services
 
 ---
+
+## 🛠️ Technical Skills
+
+### Programming
+Python • SQL • Java
+
+### Generative AI & LLMs
+LLMs • Generative AI • Prompt Engineering • Azure OpenAI  
+Structured Outputs • Tool Calling • AI Agents
+
+### Agentic AI
+LangGraph • LangChain • Stateful Workflows  
+Conditional Routing • Human-in-the-Loop • Checkpointing
+
+### RAG & Search
+RAG • Embeddings • Semantic Search • Vector Search  
+Retrieval Pipelines • Metadata Filtering
+
+### Backend
+FastAPI • Flask • REST APIs • Pydantic  
+API Integration • Microservices
+
+### AI/ML
+Machine Learning • Deep Learning • NLP • Computer Vision  
+Scikit-learn • TensorFlow
+
+### Cloud & DevOps
+Microsoft Azure • Azure OpenAI • Azure App Service  
+Azure Monitor • Azure Application Insights  
+Docker • Kubernetes • Jenkins • Git • GitHub
+
+### Evaluation & Observability
+LangSmith • LLM Evaluation • Hallucination Detection  
+Tracing • Logging • AI Monitoring
+
+---
+
+## 💼 Production AI Projects
+
+### 🤖 LOTA AI – License & Access Management Agent
+
+Enterprise AI agent for automating license and access-management workflows.
+
+**Architecture:**
+
+User → Azure AD → FastAPI → Azure OpenAI → Pydantic  
+→ YAML RBAC Policy Engine → LangGraph → Human Approval  
+→ Enterprise REST APIs
+
+**Key capabilities:**
+
+- Natural-language request understanding
+- Structured LLM outputs
+- Deterministic RBAC and authorization
+- Grant / revoke / query / list operations
+- Risk-based workflow routing
+- Human-in-the-loop approval
+- Stateful workflow checkpointing
+- Enterprise API integration
+- Production monitoring
+
+**Tech:** Python, FastAPI, Azure OpenAI, LangGraph, Pydantic, Azure AD, REST APIs, YAML, Azure Monitor
+
+---
+
+### 🔧 KCE Fault Assistant
+
+AI-powered assistant for fault-code lookup and troubleshooting.
+
+**Capabilities:**
+
+- Natural-language fault-code queries
+- Multi-path LangGraph workflow
+- Fault lookup
+- Parameter search
+- Troubleshooting guidance
+- Natural-language-to-API translation
+- RAG-based information retrieval
+- Hallucination validation
+- LangSmith observability
+
+**Tech:** Python, LangGraph, LangChain, LLMs, RAG, Embeddings, Azure AI Search, REST APIs, LangSmith
+
+---
+
+## 📊 AI Engineering Focus
+
+I focus on building AI systems beyond simple LLM prompting:
+
+```text
+User Request
+     ↓
+Intent / Classification
+     ↓
+Stateful Agent Workflow
+     ↓
+Tool / API Selection
+     ↓
+Validation & Guardrails
+     ↓
+RAG / Enterprise Data
+     ↓
+Human Approval (when required)
+     ↓
+Enterprise Action
+     ↓
+Evaluation & Monitoring
